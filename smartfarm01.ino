@@ -1,7 +1,7 @@
 /* Fill-in your Template ID (only if using Blynk.Cloud) */
-#define BLYNK_TEMPLATE_ID "TMPL6N8BU9rn8"
-#define BLYNK_TEMPLATE_NAME "testesp32"
-#define BLYNK_AUTH_TOKEN "bcsn41hsmep7OAdCSEokU52lJ6OzZWyo"
+#define BLYNK_TEMPLATE_ID "TMPL6LX8j1WGJ"
+#define BLYNK_TEMPLATE_NAME "esp32smart"
+#define BLYNK_AUTH_TOKEN "zdgUSjCFGxJPwUH1PeEXoPWMViLQ0qt2"
 #define BLYNK_FIRMWARE_VERSION "0.1.0"
 
 #include <WiFi.h>
