@@ -1,7 +1,7 @@
 /* Fill-in your Template ID (only if using Blynk.Cloud) */
-#define BLYNK_TEMPLATE_ID "TMPL6LX8j1WGJ"
-#define BLYNK_TEMPLATE_NAME "esp32smart"
-#define BLYNK_AUTH_TOKEN "zdgUSjCFGxJPwUH1PeEXoPWMViLQ0qt2"
+#define BLYNK_TEMPLATE_ID "TMPL6e1s5Xl_5"
+#define BLYNK_TEMPLATE_NAME "AICSmartCPRU"
+#define BLYNK_AUTH_TOKEN "OLktlYlg1n31K4gLQPza4jqe5gv7lrgp"
 #define BLYNK_FIRMWARE_VERSION "0.1.0"
 
 #include <WiFi.h>
@@ -34,11 +34,11 @@ SimpleTimer timer;
 // 4CH Onboard Relay
 #define Relay1_sw1 25
 #define Widget_Btn_sw1 V5
-#define Relay2_sw2 26
+#define Relay2_sw2 33
 #define Widget_Btn_sw2 V6
-#define Relay3_sw3 33
+#define Relay3_sw3 32
 #define Widget_Btn_sw3 V7
-#define Relay4_sw4 32
+#define Relay4_sw4 23
 #define Widget_Btn_sw4 V8
 
 // LCD
